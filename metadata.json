@@ -1,0 +1,8 @@
+{
+  "name": "ksia-admin-ert-lnnh-drill1",
+  "description": "Topic 2.3 Structured Reporting Formats and Drills - 4-Part Initial Incident Report (L-N-N-H)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
